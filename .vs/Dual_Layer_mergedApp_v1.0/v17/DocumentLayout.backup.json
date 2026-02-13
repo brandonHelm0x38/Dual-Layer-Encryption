@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\Dual_Layer_mergedApp_v1.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|solutionrelative:Dual_Layer_mergedApp_v1.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\basicFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|solutionrelative:basicFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\basicFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|solutionrelative:basicFunctions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\runEncryption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|solutionrelative:runEncryption.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\bitMask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|solutionrelative:bitMask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\bitMask.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|solutionrelative:bitMask.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\securityKey.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|solutionrelative:securityKey.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\runEncryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|solutionrelative:runEncryption.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\cypherInitialization.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|solutionrelative:cypherInitialization.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\debugSettings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|solutionrelative:debugSettings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\debugSettings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|solutionrelative:debugSettings.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\cypherInitialization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|solutionrelative:cypherInitialization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\securityKey.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45C3AFF5-1480-4FB8-91B3-982773739818}|Dual_Layer_mergedApp_v1.0.vcxproj|solutionrelative:securityKey.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "basicFunctions.cpp",
+              "DocumentMoniker": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\basicFunctions.cpp",
+              "RelativeDocumentMoniker": "basicFunctions.cpp",
+              "ToolTip": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\basicFunctions.cpp",
+              "RelativeToolTip": "basicFunctions.cpp",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAiwIkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T17:16:33.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "basicFunctions.h",
+              "DocumentMoniker": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\basicFunctions.h",
+              "RelativeDocumentMoniker": "basicFunctions.h",
+              "ToolTip": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\basicFunctions.h",
+              "RelativeToolTip": "basicFunctions.h",
+              "ViewState": "AgIAABEAAAAAAAAAAADgvx4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-07T17:20:21.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "runEncryption.h",
+              "DocumentMoniker": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\runEncryption.h",
+              "RelativeDocumentMoniker": "runEncryption.h",
+              "ToolTip": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\runEncryption.h",
+              "RelativeToolTip": "runEncryption.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-10T21:26:43.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bitMask.cpp",
+              "DocumentMoniker": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\bitMask.cpp",
+              "RelativeDocumentMoniker": "bitMask.cpp",
+              "ToolTip": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\bitMask.cpp",
+              "RelativeToolTip": "bitMask.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-12T17:05:55.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bitMask.h",
+              "DocumentMoniker": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\bitMask.h",
+              "RelativeDocumentMoniker": "bitMask.h",
+              "ToolTip": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\bitMask.h",
+              "RelativeToolTip": "bitMask.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-12T16:46:57.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "securityKey.h",
+              "DocumentMoniker": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\securityKey.h",
+              "RelativeDocumentMoniker": "securityKey.h",
+              "ToolTip": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\securityKey.h",
+              "RelativeToolTip": "securityKey.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-12T17:32:58.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "runEncryption.cpp",
+              "DocumentMoniker": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\runEncryption.cpp",
+              "RelativeDocumentMoniker": "runEncryption.cpp",
+              "ToolTip": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\runEncryption.cpp",
+              "RelativeToolTip": "runEncryption.cpp",
+              "ViewState": "AgIAAEYCAAAAAAAAAAAAAFgCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-10T21:26:07.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dual_Layer_mergedApp_v1.0.cpp",
+              "DocumentMoniker": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\Dual_Layer_mergedApp_v1.0.cpp",
+              "RelativeDocumentMoniker": "Dual_Layer_mergedApp_v1.0.cpp",
+              "ToolTip": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\Dual_Layer_mergedApp_v1.0.cpp",
+              "RelativeToolTip": "Dual_Layer_mergedApp_v1.0.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-07T16:52:57.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cypherInitialization.h",
+              "DocumentMoniker": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\cypherInitialization.h",
+              "RelativeDocumentMoniker": "cypherInitialization.h",
+              "ToolTip": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\cypherInitialization.h",
+              "RelativeToolTip": "cypherInitialization.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-12T17:44:36.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "debugSettings.cpp",
+              "DocumentMoniker": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\debugSettings.cpp",
+              "RelativeDocumentMoniker": "debugSettings.cpp",
+              "ToolTip": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\debugSettings.cpp",
+              "RelativeToolTip": "debugSettings.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-13T13:36:21.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "debugSettings.h",
+              "DocumentMoniker": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\debugSettings.h",
+              "RelativeDocumentMoniker": "debugSettings.h",
+              "ToolTip": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\debugSettings.h",
+              "RelativeToolTip": "debugSettings.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-13T13:32:50.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "cypherInitialization.cpp",
+              "DocumentMoniker": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\cypherInitialization.cpp",
+              "RelativeDocumentMoniker": "cypherInitialization.cpp",
+              "ToolTip": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\cypherInitialization.cpp",
+              "RelativeToolTip": "cypherInitialization.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-12T17:39:17.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ViewState": "AgIAAHUHAAAAAAAAAAASwIcHAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-12T18:18:52.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "securityKey.cpp",
+              "DocumentMoniker": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\securityKey.cpp",
+              "RelativeDocumentMoniker": "securityKey.cpp",
+              "ToolTip": "H:\\Development\\Source\\C\u002B\u002B\\Encryption\\My Dual Layer Variants\\Dual_Layer_mergedApp_v1.0\\securityKey.cpp",
+              "RelativeToolTip": "securityKey.cpp",
+              "ViewState": "AgIAAKQBAAAAAAAAAAAAALMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-12T17:33:41.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
